@@ -2,3 +2,4 @@
 simulation-analysis.code-workspace
 
 data/raw/*
+data/interim/*
